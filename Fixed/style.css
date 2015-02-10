@@ -1,0 +1,38 @@
+html{
+	height: 100%;
+	border: solid 5px black;
+}
+
+body{
+	height: 100%;
+	background-color: white;
+	border: solid 3px yellow;
+}
+
+div{
+	border:solid 5px green;
+	}
+	#container{height: 90%;
+		border: solid 2px red;
+		width: 900px;
+			}
+	#banner{
+		height: 20%;
+	}
+
+	#nav{height: 10%;}
+
+	#main{width: 10%;
+ 		background-color: green;
+ 		height: 50%;
+ 		position: fixed;
+ 		float: left;
+ 		border: solid 5px #000;}
+
+ 	.sideBar{
+ 		width: 50%;
+ 		background-color: red;
+ 		height: 60%;
+ 		border: solid 5px blue;
+ 		float: right;
+ 		}
