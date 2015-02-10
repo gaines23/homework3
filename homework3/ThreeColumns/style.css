@@ -1,0 +1,48 @@
+html{height: 100%;
+	border: solid 5px black;
+	}
+
+body{
+	height: 100%;
+}
+
+#container{
+	height: 100%;
+	border: solid 5px black;
+}
+
+#banner{
+	height: 10%;
+}
+
+#content1{
+	border: solid 10px blue;
+	height: 65%;
+	width: 20%;
+	float: left;
+	background-color: orange;
+}
+
+#content2{
+	height: 80%;
+	width: 100%;
+	margin-right: 20px;
+	float: center;
+	}
+
+#content12{
+	border: solid 10px blue;
+	height: 90%;
+	width:35%;
+	float: left;
+	background-color: red;
+	margin: 8px;
+}
+
+#content22{border: solid 10px blue;
+	height: 100%;
+	width: 39%;
+	float: right;
+	background-color: yellow;
+}
+

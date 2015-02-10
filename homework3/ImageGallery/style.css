@@ -1,0 +1,33 @@
+html{
+	height: 150%;
+	border: solid 5px;
+}
+
+#container{
+	height: 100%;
+}
+
+#banner{
+	height: 50%;
+	border: solid 3px black;
+}
+
+#nav{
+	height:40%;
+	border: solid 3px black;
+}
+
+#main{
+	width: 30%;
+ 	background-color: green;
+ 	height: 20%;
+ 	position: fixed;
+ 	border: solid 5px #000;
+ 	float: center;
+ 	}
+
+ #link{
+ 	border: solid 10px black;
+ 	float: right;
+ 	height: 35%;
+ }
